@@ -21,17 +21,35 @@ This analysis was done by a second time, replacing the grades with NaN.
 As the issue impacts the summary, it is considered to resolve the following questions to avoid any misunderstanding.
   
   *How is the district summary affected?
- ![District_Summary]
- (https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/District_Summary.PNG)
+ ![District_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/District_Summary.PNG)
  
   *How is the school summary affected?
+  ![Previous_School_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_Prev.png)
+  
+  ![Remanufactured_School_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_New.png)
+  
   *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+  
+  ![Math Scores_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Math_by_Grade.PNG)
+  
+  ![Reading_Scores_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Read_by_Grade.PNG)
+  
+  
   *How does replacing the ninth-grade scores affect the following:
-  *Math and reading scores by grade
-  *Scores by school spending
-  *Scores by school size
-  *Scores by school type
+       *Math and reading scores by grade
+       
+       
+       *Scores by school spending
+       ![Scores_By_School_Spending](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Spending.PNG)
+  
+       
+       *Scores by school size
+       
+       ![Scores_By_School_Size](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Size.PNG)
+  
+       *Scores by school type
 
+       ![Scores_By_School_Type](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Type.PNG)
 
 ### Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
