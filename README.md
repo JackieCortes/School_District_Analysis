@@ -21,6 +21,7 @@ This analysis was done by a second time, replacing the grades with NaN.
 As the issue impacts the summary, it is considered to resolve the following questions to avoid any misunderstanding.
   
   *How is the district summary affected?
+ ![District_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/District_Summary.PNG)
   *How is the school summary affected?
   *How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   *How does replacing the ninth-grade scores affect the following:
