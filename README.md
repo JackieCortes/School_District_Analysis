@@ -21,7 +21,8 @@ As the issue impacts the summary, it is considered to resolve the following ques
 The student total is 39,170, THS 9th students are 461. When the grades were substracted from the total the math and reading scores were affected. 
 
   - _**How is the district summary affected?**_ 
-  As you can see in the following images, the Passing Math and Reading Average and Percentage were affected, also the Overall Averge/Percentage due to subtracting from the total population, the THS 9th-grade.
+ 
+ As you can see in the following images, the Passing Math and Reading Average and Percentage were affected, also the Overall Averge/Percentage due to subtracting from the total population, the THS 9th-grade.
  
 _Previous result_
 ![PrevDistrictSummary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/AnteriorDistrictS.png)
@@ -31,8 +32,10 @@ _Result after changes_
  
  
   - _**How is the school summary affected?**_
+     
      The below images again show the impact in the THS metrics after removing the THS 9th-grade. It is essential to point out that School Type, Total Students, Total School Budget, Per Student Budget are metrics without impact, given the issue was in the scores. 
- 
+As you can see removing these specific scores average and percentage decreased. 
+
 _Previous result_
 
   ![Previous_School_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_Prev.png)
@@ -42,17 +45,20 @@ _Result after changes_
   
   
   - _**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**_
-     The population will show a "nan" value until further communication due to the current issue. So until this moment, there is no possibility of comparing grades with other schools.
+     
+     The population will show a "nan" value until further communication due to the current issue. So until this moment, there is no possibility of comparing grades with other schools, and as a result, THS can not show its 9th performance.
      
   _Current Math Scores_   
   ![Math Scores_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Math_by_Grade.PNG)
-   _Current Reading Scores_  
+  
+  _Current Reading Scores_  
   ![Reading_Scores_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Read_by_Grade.PNG)
   
   
   - _**How does replacing the ninth-grade scores affect the following:**_
   
        -Math and reading scores by grade
+       
        Witout knowing the grades of THS 9th-grade there is no possibility to know the performance of 9th grade in the district.
        
        - Scores by school spending
