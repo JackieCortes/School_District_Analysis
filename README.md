@@ -23,20 +23,26 @@ The student total is 39,170, THS 9th students are 461. When the grades were subs
   - _**How is the district summary affected?**_ 
   As you can see in the following images, the Passing Math and Reading Average and Percentage were affected, also the Overall Averge/Percentage due to subtracting from the total population, the THS 9th-grade.
  
-Previous result 
+_Previous result_
 ![PrevDistrictSummary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/AnteriorDistrictS.png)
-Result after changes
+_Result after changes_
 ![District_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/District_Summary.PNG)
  
+ 
   - _**How is the school summary affected?**_
+     The below images again show the impact in the THS metrics after removing the THS 9th-grade. It is essential to point out that School Type, Total Students, Total School Budget, Per Student Budget are metrics without impact, given the issue was in the scores. 
+ 
+_Previous result_
   ![Previous_School_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_Prev.png)
-  
+_Result after changes_  
   ![Remanufactured_School_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_New.png)
   
+  
   - _**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**_
-  
+     The population will show a "na" value until further communication due to the current issue. So until this moment, there is no possibility of comparing grades with other schools.
+  _Current Math Scores_   
   ![Math Scores_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Math_by_Grade.PNG)
-  
+   _Current Reading Scores_  
   ![Reading_Scores_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Read_by_Grade.PNG)
   
   
