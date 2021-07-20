@@ -20,7 +20,7 @@ _Note:_ Due to an issue with the reading and math grades for Thomas High School 
 As the issue impacts the summary, it is considered to resolve the following questions to avoid any misunderstanding.
 The student total is 39,170, THS 9th students are 461. When the grades were substracted from the total the math and reading scores were affected. 
 
-  - *How is the district summary affected?* 
+  - _**How is the district summary affected?**_ 
   As you can see in the following images, the Passing Math and Reading Percentage were affected, also the Overall Percentage due to subtracting from the total population, the THS 9th-grade.
  
 Previous result 
@@ -28,19 +28,19 @@ Previous result
 Result after changes
 ![District_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/District_Summary.PNG)
  
-  - How is the school summary affected?
+  - _**How is the school summary affected?**_
   ![Previous_School_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_Prev.png)
   
   ![Remanufactured_School_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_New.png)
   
-  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+  - _**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**_
   
   ![Math Scores_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Math_by_Grade.PNG)
   
   ![Reading_Scores_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Read_by_Grade.PNG)
   
   
-  - How does replacing the ninth-grade scores affect the following:
+  - _**How does replacing the ninth-grade scores affect the following:**_
        -Math and reading scores by grade
        
        
