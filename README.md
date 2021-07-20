@@ -22,8 +22,10 @@ The student total is 39,170, THS 9th students are 461. When the grades were subs
 
   - *How is the district summary affected?* 
   As you can see in the following images, the Passing Math and Reading Percentage were affected, also the Overall Percentage due to subtracting from the total population, the THS 9th-grade.
-  
+ 
+Previous result 
 ![PrevDistrictSummary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/AnteriorDistrictS.png)
+Result after changes
 ![District_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/District_Summary.PNG)
  
   - How is the school summary affected?
