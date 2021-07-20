@@ -21,7 +21,7 @@ As the issue impacts the summary, it is considered to resolve the following ques
 The student total is 39,170, THS 9th students are 461. When the grades were substracted from the total the math and reading scores were affected. 
 
   - _**How is the district summary affected?**_ 
-  As you can see in the following images, the Passing Math and Reading Percentage were affected, also the Overall Percentage due to subtracting from the total population, the THS 9th-grade.
+  As you can see in the following images, the Passing Math and Reading Average and Percentage were affected, also the Overall Averge/Percentage due to subtracting from the total population, the THS 9th-grade.
  
 Previous result 
 ![PrevDistrictSummary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/AnteriorDistrictS.png)
