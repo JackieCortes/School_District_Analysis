@@ -13,15 +13,18 @@ The report contains the following sections:
   * Scores by School Population Size
   * Scores by School Type
  
-_Note:_ Due to an issue with the reading and math grades for Thomas High School ninth graders.
-This analysis was done by a second time, replacing the grades with NaN. 
+_Note:_ Due to an issue with the reading and math grades for Thomas High School (THS) ninth graders were replaced with NaN. This analysis was done by a second time impacting some scores. 
 
 
 ### Results
 As the issue impacts the summary, it is considered to resolve the following questions to avoid any misunderstanding.
+The student total is 39,170, THS 9th students are 461. When the grades were substracted from the total the math and reading scores were affected. 
+
+  - *How is the district summary affected?* 
+  As you can see in the following images, the Passing Math and Reading Percentage were affected, also the Overall Percentage due to subtracting from the total population, the THS 9th-grade.
   
-  - How is the district summary affected?
- ![District_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/District_Summary.PNG)
+![PrevDistrictSummary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/AnteriorDistrictS.png)
+![District_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/District_Summary.PNG)
  
   - How is the school summary affected?
   ![Previous_School_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_Prev.png)
