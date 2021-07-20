@@ -57,9 +57,9 @@ _Result after changes_
   
   - _**How does replacing the ninth-grade scores affect the following:**_
   
-       -Math and reading scores by grade
+       - Math and reading scores by grade
        
-       Witout knowing the grades of THS 9th-grade there is no possibility to know the performance of 9th grade in the district.
+       Witout knowing the grades of THS 9th-grade there is no possibility to know the performance of 9th grade among the schools in the district.
        
        - Scores by school spending
        ![Scores_By_School_Spending](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Spending.PNG)
