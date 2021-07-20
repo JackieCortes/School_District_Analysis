@@ -59,7 +59,7 @@ _Result after changes_
   
        - Math and reading scores by grade
        
-       Witout knowing the grades of THS 9th-grade there is no possibility to know the performance of 9th grade among the schools in the district. And its ranking position is not reliable.
+       Witout knowing the grades of THS 9th-grade there is no possibility to know the performance of 9th grade among the schools in the district. And its ranking position is not reliable. However, as the other grades (10th-12th) have the correct information, the dashboards showing the information grouping the data by grade, school, and subject could be good to make decisions on this level. 
        
        - Scores by school spending
        ![Scores_By_School_Spending](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Spending.PNG)
