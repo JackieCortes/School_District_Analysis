@@ -37,6 +37,7 @@ The student total is 39,170, THS 9th students are 461. When the grades were subs
 As you can see removing these specific scores average and percentage decreased. 
 
    _Previous result_
+   
    ![Previous_School_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_Prev.png)
 
    _Result after changes_  
@@ -62,10 +63,10 @@ As you can see removing these specific scores average and percentage decreased.
        
      - Scores by school spending
        
-       ![THS Scores_By Spending]   (https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_Scores_by_School_Spending.PNG)
+      ![THSScoresBySpending(https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_Scores_by_School_Spending.PNG)
        
        
-       ![Scores_By_School_Spending]     (https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Spending.PNG)
+       ![ScoresBySchoolSpending](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Spending.PNG)
   
        
       - Scores by school size
