@@ -20,7 +20,7 @@ _Note:_ Due to an issue with the reading and math grades for Thomas High School 
 As the issue impacts the summary, it is considered to resolve the following questions to avoid any misunderstanding.
 The student total is 39,170, THS 9th students are 461. When the grades were substracted from the total the math and reading scores were affected. 
 
- -_**How is the district summary affected?**_ 
+ - _**How is the district summary affected?**_ 
  
      As you can see in the following images, the Passing Math and Reading Average and Percentage were affected, also the Overall   Averge/Percentage due to subtracting from the total population, the THS 9th-grade.
  
@@ -58,22 +58,19 @@ As you can see removing these specific scores average and percentage decreased.
  - _**How does replacing the ninth-grade scores affect the following:**_
   
    - Math and reading scores by grade
-       
-       Witout knowing the scores of THS 9th-grade there is no possibility to know the performance of 9th grade among the schools in the district. And its ranking position is not reliable. However, as the other grades (10th-12th) have the correct information, the dashboards showing the information grouping the data by grade, school, and subject could be good to make decisions on this level. 
+    Witout knowing the scores of THS 9th-grade there is no possibility to know the performance of 9th grade among the schools in the district. And its ranking position is not reliable. However, as the other grades (10th-12th) have the correct information, the dashboards showing the information grouping the data by grade, school, and subject could be good to make decisions on this level. 
        
    - Scores by school spending
-       
-      ![THSScoresBySpend](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_Scores_by_School_Spending.PNG)
-       
-       
-       ![ScoresBySchoolSpending](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Spending.PNG)
+    As you observed the THS metrics (average and percentages) has moved by hundreths. Due to the presentation of this spending category in integers, there is no change between the previous result and this one.  
+             
+     ![ScoresBySchoolSpending](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Spending.PNG)
   
        
-    - Scores by school size
+   - Scores by school size
        
        ![Scores_By_School_Size](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Size.PNG)
   
-    - Scores by school type
+   - Scores by school type
 
        ![Scores_By_School_Type](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Type.PNG)
 
