@@ -14,15 +14,13 @@ The report contains the following sections:
   * Scores by School Type
  
 _Note:_ Due to an issue with the reading and math grades for Thomas High School (THS) ninth graders were replaced with NaN. This analysis was done by a second time impacting some scores. 
- -1
- -2
- -3.
+
 
 ### Results
 As the issue impacts the summary, it is considered to resolve the following questions to avoid any misunderstanding.
 The student total is 39,170, THS 9th students are 461. When the grades were substracted from the total the math and reading scores were affected. 
 
-  -1. _**How is the district summary affected?**_ 
+ -_**How is the district summary affected?**_ 
  
      As you can see in the following images, the Passing Math and Reading Average and Percentage were affected, also the Overall   Averge/Percentage due to subtracting from the total population, the THS 9th-grade.
  
@@ -33,7 +31,7 @@ The student total is 39,170, THS 9th students are 461. When the grades were subs
    ![District_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/District_Summary.PNG)
  
  
-  -2. _**How is the school summary affected?**_
+ - _**How is the school summary affected?**_
      
      The below images again show the impact in the THS metrics after removing the THS 9th-grade. It is essential to point out that School Type, Total Students, Total School Budget, Per Student Budget are metrics without impact, given the issue was in the scores. 
 As you can see removing these specific scores average and percentage decreased. 
@@ -46,7 +44,7 @@ As you can see removing these specific scores average and percentage decreased.
    ![Remanufactured_School_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_New.png)
   
   
-  -3. _**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**_
+ - _**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**_
      
      The population will show a "nan" value until further communication due to the current issue. So until this moment, there is no possibility of comparing grades with other schools, and as a result, THS can not show its 9th performance.
      
@@ -57,13 +55,13 @@ As you can see removing these specific scores average and percentage decreased.
     ![Reading_Scores_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Read_by_Grade.PNG)
   
   
-  -4. _**How does replacing the ninth-grade scores affect the following:**_
+ - _**How does replacing the ninth-grade scores affect the following:**_
   
-   -a. Math and reading scores by grade
+   - Math and reading scores by grade
        
        Witout knowing the scores of THS 9th-grade there is no possibility to know the performance of 9th grade among the schools in the district. And its ranking position is not reliable. However, as the other grades (10th-12th) have the correct information, the dashboards showing the information grouping the data by grade, school, and subject could be good to make decisions on this level. 
        
-   -b. Scores by school spending
+   - Scores by school spending
        
       ![THSScoresBySpend](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_Scores_by_School_Spending.PNG)
        
@@ -71,11 +69,11 @@ As you can see removing these specific scores average and percentage decreased.
        ![ScoresBySchoolSpending](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Spending.PNG)
   
        
-    -c. Scores by school size
+    - Scores by school size
        
        ![Scores_By_School_Size](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Size.PNG)
   
-    -d. Scores by school type
+    - Scores by school type
 
        ![Scores_By_School_Type](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Type.PNG)
 
