@@ -14,7 +14,9 @@ The report contains the following sections:
   * Scores by School Type
  
 _Note:_ Due to an issue with the reading and math grades for Thomas High School (THS) ninth graders were replaced with NaN. This analysis was done by a second time impacting some scores. 
-
+ -1
+ -2
+ -3.
 
 ### Results
 As the issue impacts the summary, it is considered to resolve the following questions to avoid any misunderstanding.
