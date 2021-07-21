@@ -63,7 +63,7 @@ As you can see removing these specific scores average and percentage decreased.
        
      - Scores by school spending
        
-      ![THSScoresBySpending(https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_Scores_by_School_Spending.PNG)
+      ![THSScoresBySpend](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/THS_Scores_by_School_Spending.PNG)
        
        
        ![ScoresBySchoolSpending](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Spending.PNG)
