@@ -22,12 +22,13 @@ The student total is 39,170, THS 9th students are 461. When the grades were subs
 
  - _**How is the district summary affected?**_ 
  
-     As you can see in the following images, the Passing Math and Reading Average and Percentage were affected, also the Overall   Averge/Percentage due to subtracting from the total population, the THS 9th-grade.
+     As you can see in the following images, the Passing Math and Reading Average and Percentage were affected, also the Overall Averge/Percentage due to subtracting from the total population, the THS 9th-grade.
  
    _Previous result_
    ![PrevDistrictSummary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/AnteriorDistrictS.png)
 
    _Result after changes_
+   
    ![District_Summary](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/District_Summary.PNG)
  
  
@@ -80,5 +81,12 @@ As you can see removing these specific scores average and percentage decreased.
    No impact was shown, due to the presentation of the metrics and the categories number.
        ![Scores_By_School_Type](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Type.PNG)
 
-### Summary: 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+### Summary:
+   After performing this new review replacing the 9th-grades THS scores with NaN, we can conclude the following impacts:
+   
+   -1. Change in THS averages and percentages scores for math and reading by school.
+   -2. Change in THS averages and percentages scores for overall by school.
+   -3. Change in averages and percentage scores by district.
+   -4. In the matrix by grades, there is no score for 9th-grade.
+    
+
