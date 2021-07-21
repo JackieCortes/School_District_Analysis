@@ -72,9 +72,7 @@ As you can see removing these specific scores average and percentage decreased.
    - Scores by school size
    
    No impact was shown, due to the presentation of the metrics.
-
-       
-       ![Scores_By_School_Size](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Size.PNG)
+          ![Scores_By_School_Size](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Size.PNG)
   
    - Scores by school type
    
@@ -84,9 +82,9 @@ As you can see removing these specific scores average and percentage decreased.
 ### Summary:
    After performing this new review replacing the 9th-grades THS scores with NaN, we can conclude the following impacts:
    
-   -1 Change in THS averages and percentages scores for math and reading by school.
-   -2 Change in THS averages and percentages scores for overall by school.
-   -3 Change in averages and percentage scores by district.
-   -4 In the matrix by grades, there is no score for 9th-grade.
+   - 1 Change in THS averages and percentages scores for math and reading by school.
+   - 2 Change in THS averages and percentages scores for overall by school.
+   - 3 Change in averages and percentage scores by district.
+   - 4 In the matrix by grades, there is no score for 9th-grade.
     
 
