@@ -58,20 +58,26 @@ As you can see removing these specific scores average and percentage decreased.
  - _**How does replacing the ninth-grade scores affect the following:**_
   
    - Math and reading scores by grade
-    Witout knowing the scores of THS 9th-grade there is no possibility to know the performance of 9th grade among the schools in the district. And its ranking position is not reliable. However, as the other grades (10th-12th) have the correct information, the dashboards showing the information grouping the data by grade, school, and subject could be good to make decisions on this level. 
+   
+   Witout knowing the scores of THS 9th-grade there is no possibility to know the performance of 9th grade among the schools in the district. And its ranking position is not reliable. However, as the other grades (10th-12th) have the correct information, the dashboards showing the information grouping the data by grade, school, and subject could be good to make decisions on this level. 
        
    - Scores by school spending
-    As you observed the THS metrics (average and percentages) has moved by hundreths. Due to the presentation of this spending category in integers, there is no change between the previous result and this one.  
+   
+   As you observed the THS metrics (average and percentages) has moved by hundreths. Due to the presentation of this spending category in integers, there is no change between the previous result and this one.  
              
      ![ScoresBySchoolSpending](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Spending.PNG)
   
        
    - Scores by school size
+   
+   No impact was shown, due to the presentation of the metrics.
+
        
        ![Scores_By_School_Size](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Size.PNG)
   
    - Scores by school type
-
+   
+   No impact was shown, due to the presentation of the metrics and the categories number.
        ![Scores_By_School_Type](https://github.com/JackieCortes/School_District_Analysis/blob/main/Images_4/Scores_by_School_Type.PNG)
 
 ### Summary: 
